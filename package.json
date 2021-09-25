@@ -5,11 +5,19 @@
     "test": "jest",
     "build": "babel src --out-dir dist --copy-files"
   },
-  "keywords": [],
+  "keywords": [
+    "cool-navs",
+    "react",
+    "javascript",
+    "navigations",
+    "cool",
+    "component",
+    "react-component"
+  ],
   "author": "Prabin",
   "license": "ISC",
   "dependencies": {},
-  "version": "1.0.12",
+  "version": "1.0.13",
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.15.0",
