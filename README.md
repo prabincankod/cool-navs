@@ -42,3 +42,4 @@ export default App;
 ## Authors
 
 - [Prabin Subedi](https://www.github.com/prabincankod)
+- [Gagan Guragain](https://www.github.com/gagancode)
